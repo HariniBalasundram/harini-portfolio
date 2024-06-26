@@ -146,7 +146,7 @@ function increaseProject() {
 }
 // Function to check if tracked content is in view
 function checkContentInView() {
-  var trackedContent = document.getElementById('project-completed');
+  var trackedContent = document.getElementById('why-hire-me');
   var contentRect = trackedContent.getBoundingClientRect();
 
   if (contentRect.top <= window.innerHeight * 0.5 && contentRect.bottom >= 0) {
