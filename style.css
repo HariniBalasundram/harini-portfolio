@@ -1,10 +1,12 @@
 html {
   scroll-behavior: smooth;
 }
+
 .test,
 .test * {
   box-sizing: border-box;
 }
+
 .test {
   background: var(--white, #ffffff);
   padding: 40px 0px 40px 0px;
@@ -17,6 +19,7 @@ html {
   position: relative;
   overflow: hidden;
 }
+
 .frame-11 {
   display: flex;
   flex-direction: column;
@@ -26,6 +29,7 @@ html {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-1 {
   margin-block-start: 30px;
 
@@ -33,11 +37,9 @@ html {
   border-radius: 50px;
   border-width: 1px;
   border-style: solid;
-  border-image: linear-gradient(
-    250.12deg,
-    rgba(255, 255, 255, 1) 0%,
-    rgba(203, 203, 203, 0) 100%
-  );
+  border-image: linear-gradient(250.12deg,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(203, 203, 203, 0) 100%);
   border-image-slice: 1;
   padding: 0px 10px 0px 10px;
   display: flex;
@@ -50,6 +52,7 @@ html {
   position: relative;
   backdrop-filter: blur(7.5px);
 }
+
 .frame-7 {
   background: var(--orange-400, #fd853a);
   border-radius: 60px;
@@ -63,6 +66,7 @@ html {
   position: relative;
   overflow: hidden;
 }
+
 .home {
   color: var(--white, #ffffff);
   text-align: left;
@@ -72,6 +76,7 @@ html {
   font-weight: 700;
   position: relative;
 }
+
 .frame-8 {
   border-radius: 60px;
   border-style: solid;
@@ -87,6 +92,7 @@ html {
   position: relative;
   overflow: hidden;
 }
+
 .home2 {
   color: var(--white, #ffffff);
   text-align: left;
@@ -96,6 +102,7 @@ html {
   font-weight: 500;
   position: relative;
 }
+
 .frame-9 {
   border-radius: 60px;
   border-style: solid;
@@ -111,6 +118,7 @@ html {
   position: relative;
   overflow: hidden;
 }
+
 .frame-112 {
   border-radius: 60px;
   border-style: solid;
@@ -126,6 +134,7 @@ html {
   position: relative;
   overflow: hidden;
 }
+
 .frame-12 {
   border-radius: 60px;
   border-style: solid;
@@ -141,6 +150,7 @@ html {
   position: relative;
   overflow: hidden;
 }
+
 .home3 {
   color: var(--white, #ffffff);
   text-align: left;
@@ -150,6 +160,7 @@ html {
   font-weight: 400;
   position: relative;
 }
+
 .frame-13 {
   border-radius: 60px;
   border-style: solid;
@@ -165,12 +176,14 @@ html {
   position: relative;
   overflow: hidden;
 }
+
 .frame-67 {
   flex-shrink: 0;
   width: 1440px;
   height: 750px;
   position: relative;
 }
+
 .frame-427318898-default {
   width: 4839px;
   height: 58px;
@@ -179,10 +192,12 @@ html {
   top: 6664px;
   overflow: hidden;
 }
+
 .group-427318981 {
   position: absolute;
   inset: 0;
 }
+
 .frame-122 {
   background: #ffdbc5;
   display: flex;
@@ -197,6 +212,7 @@ html {
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
+
 .airport-info {
   color: #000000;
   text-align: left;
@@ -208,6 +224,7 @@ html {
   font-weight: 400;
   position: relative;
 }
+
 .star-1 {
   flex-shrink: 0;
   width: 34px;
@@ -215,6 +232,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .adobe-illustrator {
   color: #000000;
   text-align: left;
@@ -224,6 +242,7 @@ html {
   font-weight: 400;
   position: relative;
 }
+
 .star-3 {
   flex-shrink: 0;
   width: 34px;
@@ -231,6 +250,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .adobe-photoshop {
   color: #000000;
   text-align: left;
@@ -240,6 +260,7 @@ html {
   font-weight: 400;
   position: relative;
 }
+
 .star-2 {
   flex-shrink: 0;
   width: 34px;
@@ -247,6 +268,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .adobe-xd {
   color: #000000;
   text-align: left;
@@ -256,6 +278,7 @@ html {
   font-weight: 400;
   position: relative;
 }
+
 .star-4 {
   flex-shrink: 0;
   width: 34px;
@@ -263,6 +286,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .davinci-resolve {
   color: #000000;
   text-align: left;
@@ -272,6 +296,7 @@ html {
   font-weight: 400;
   position: relative;
 }
+
 .star-5 {
   flex-shrink: 0;
   width: 34px;
@@ -279,6 +304,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .balsamiq {
   color: #000000;
   text-align: left;
@@ -288,6 +314,7 @@ html {
   font-weight: 400;
   position: relative;
 }
+
 .star-6 {
   flex-shrink: 0;
   width: 34px;
@@ -295,6 +322,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-7 {
   flex-shrink: 0;
   width: 34px;
@@ -302,6 +330,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-8 {
   flex-shrink: 0;
   width: 34px;
@@ -309,6 +338,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-9 {
   flex-shrink: 0;
   width: 34px;
@@ -316,6 +346,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-10 {
   flex-shrink: 0;
   width: 34px;
@@ -323,6 +354,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-11 {
   flex-shrink: 0;
   width: 34px;
@@ -330,6 +362,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-12 {
   flex-shrink: 0;
   width: 34px;
@@ -337,6 +370,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-13 {
   flex-shrink: 0;
   width: 34px;
@@ -344,6 +378,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-14 {
   flex-shrink: 0;
   width: 34px;
@@ -351,6 +386,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-15 {
   flex-shrink: 0;
   width: 34px;
@@ -358,6 +394,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .frame-427318902 {
   background: #ffd7be;
   padding: 11px 0px 11px 0px;
@@ -372,6 +409,7 @@ html {
   top: 776px; */
   overflow: hidden;
 }
+
 .component-13 {
   flex-shrink: 0;
   width: 1440px;
@@ -379,10 +417,12 @@ html {
   position: relative;
   overflow: hidden;
 }
+
 .group-427318983 {
   position: absolute;
   inset: 0;
 }
+
 .frame-427318898-default2 {
   width: 1919px;
   /* height: 58px; */
@@ -391,6 +431,7 @@ html {
   top: 0px; */
   overflow: hidden;
 }
+
 .frame-123 {
   background: rgba(255, 219, 197, 0);
   display: flex;
@@ -402,6 +443,7 @@ html {
   transform-origin: 0 0;
   transform: rotate(0deg) scale(1, 1);
 }
+
 .marquee-section {
   /* position: relative; */
   min-height: 58px;
@@ -425,6 +467,7 @@ html {
   from {
     transform: translateX(-50%);
   }
+
   to {
     transform: translateX(0);
   }
@@ -435,10 +478,12 @@ html {
   from {
     transform: translateX(0);
   }
+
   to {
     transform: translateX(-50%);
   }
 }
+
 .star-16 {
   flex-shrink: 0;
   width: 34px;
@@ -446,6 +491,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-32 {
   flex-shrink: 0;
   width: 34px;
@@ -453,6 +499,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-22 {
   flex-shrink: 0;
   width: 34px;
@@ -460,6 +507,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-42 {
   flex-shrink: 0;
   width: 34px;
@@ -467,6 +515,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-52 {
   flex-shrink: 0;
   width: 34px;
@@ -474,6 +523,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-62 {
   flex-shrink: 0;
   width: 34px;
@@ -481,6 +531,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-72 {
   flex-shrink: 0;
   width: 34px;
@@ -488,6 +539,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-82 {
   flex-shrink: 0;
   width: 34px;
@@ -495,6 +547,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-92 {
   flex-shrink: 0;
   width: 34px;
@@ -502,6 +555,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-102 {
   flex-shrink: 0;
   width: 34px;
@@ -509,6 +563,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-112 {
   flex-shrink: 0;
   width: 34px;
@@ -516,6 +571,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-122 {
   flex-shrink: 0;
   width: 34px;
@@ -523,6 +579,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-132 {
   flex-shrink: 0;
   width: 34px;
@@ -530,6 +587,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-142 {
   flex-shrink: 0;
   width: 34px;
@@ -537,6 +595,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-152 {
   flex-shrink: 0;
   width: 34px;
@@ -544,10 +603,12 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .group-427318982 {
   position: absolute;
   inset: 0;
 }
+
 .star-17 {
   flex-shrink: 0;
   width: 34px;
@@ -555,6 +616,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-33 {
   flex-shrink: 0;
   width: 34px;
@@ -562,6 +624,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-23 {
   flex-shrink: 0;
   width: 34px;
@@ -569,6 +632,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-43 {
   flex-shrink: 0;
   width: 34px;
@@ -576,6 +640,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-53 {
   flex-shrink: 0;
   width: 34px;
@@ -583,6 +648,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-63 {
   flex-shrink: 0;
   width: 34px;
@@ -590,6 +656,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-73 {
   flex-shrink: 0;
   width: 34px;
@@ -597,6 +664,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-83 {
   flex-shrink: 0;
   width: 34px;
@@ -604,6 +672,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-93 {
   flex-shrink: 0;
   width: 34px;
@@ -611,6 +680,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-103 {
   flex-shrink: 0;
   width: 34px;
@@ -618,6 +688,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-113 {
   flex-shrink: 0;
   width: 34px;
@@ -625,6 +696,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-123 {
   flex-shrink: 0;
   width: 34px;
@@ -632,6 +704,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-133 {
   flex-shrink: 0;
   width: 34px;
@@ -639,6 +712,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-143 {
   flex-shrink: 0;
   width: 34px;
@@ -646,6 +720,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-153 {
   flex-shrink: 0;
   width: 34px;
@@ -653,6 +728,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .frame-427318898-default3 {
   width: 1919px;
   height: 58px;
@@ -661,6 +737,7 @@ html {
   top: 0px;
   overflow: hidden;
 }
+
 .star-18 {
   flex-shrink: 0;
   width: 34px;
@@ -668,6 +745,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-34 {
   flex-shrink: 0;
   width: 34px;
@@ -675,6 +753,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-24 {
   flex-shrink: 0;
   width: 34px;
@@ -682,6 +761,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-44 {
   flex-shrink: 0;
   width: 34px;
@@ -689,6 +769,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-54 {
   flex-shrink: 0;
   width: 34px;
@@ -696,6 +777,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-64 {
   flex-shrink: 0;
   width: 34px;
@@ -703,6 +785,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-74 {
   flex-shrink: 0;
   width: 34px;
@@ -710,6 +793,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-84 {
   flex-shrink: 0;
   width: 34px;
@@ -717,6 +801,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-94 {
   flex-shrink: 0;
   width: 34px;
@@ -724,6 +809,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-104 {
   flex-shrink: 0;
   width: 34px;
@@ -731,6 +817,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-114 {
   flex-shrink: 0;
   width: 34px;
@@ -738,6 +825,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-124 {
   flex-shrink: 0;
   width: 34px;
@@ -745,6 +833,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-134 {
   flex-shrink: 0;
   width: 34px;
@@ -752,6 +841,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-144 {
   flex-shrink: 0;
   width: 34px;
@@ -759,6 +849,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-154 {
   flex-shrink: 0;
   width: 34px;
@@ -766,6 +857,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-19 {
   flex-shrink: 0;
   width: 34px;
@@ -773,6 +865,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-35 {
   flex-shrink: 0;
   width: 34px;
@@ -780,6 +873,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-25 {
   flex-shrink: 0;
   width: 34px;
@@ -787,6 +881,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-45 {
   flex-shrink: 0;
   width: 34px;
@@ -794,6 +889,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-55 {
   flex-shrink: 0;
   width: 34px;
@@ -801,6 +897,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-65 {
   flex-shrink: 0;
   width: 34px;
@@ -808,6 +905,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-75 {
   flex-shrink: 0;
   width: 34px;
@@ -815,6 +913,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-85 {
   flex-shrink: 0;
   width: 34px;
@@ -822,6 +921,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-95 {
   flex-shrink: 0;
   width: 34px;
@@ -829,6 +929,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-105 {
   flex-shrink: 0;
   width: 34px;
@@ -836,6 +937,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-115 {
   flex-shrink: 0;
   width: 34px;
@@ -843,6 +945,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-125 {
   flex-shrink: 0;
   width: 34px;
@@ -850,6 +953,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-135 {
   flex-shrink: 0;
   width: 34px;
@@ -857,6 +961,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-145 {
   flex-shrink: 0;
   width: 34px;
@@ -864,6 +969,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .star-155 {
   flex-shrink: 0;
   width: 34px;
@@ -871,6 +977,7 @@ html {
   position: relative;
   overflow: visible;
 }
+
 .frame-427318901 {
   display: flex;
   flex-direction: column;
@@ -881,12 +988,14 @@ html {
   left: 213px;
   top: 37px;
 }
+
 .frame-5 {
   flex-shrink: 0;
   width: 913px;
   height: 247px;
   position: relative;
 }
+
 .frame-4 {
   display: flex;
   flex-direction: column;
@@ -897,16 +1006,19 @@ html {
   left: 389px;
   top: 0px; */
 }
+
 .frame-4 h1 {
   font-family: "Urbanist-Regular", sans-serif;
   font-size: 80px;
 }
+
 .group-3 {
   flex-shrink: 0;
   width: 133.98px;
   height: 45px;
   position: static;
 }
+
 .frame-72 {
   background: rgba(255, 255, 255, 0.1);
   border-radius: 38.24px;
@@ -925,6 +1037,7 @@ html {
   top: 0px;
   overflow: hidden;
 }
+
 .hello {
   color: var(--gray-900, #171717);
   text-align: left;
@@ -934,6 +1047,7 @@ html {
   font-weight: 400;
   position: relative;
 }
+
 .component-14 {
   width: 986px;
   height: 192px;
@@ -941,6 +1055,7 @@ html {
   left: -35px;
   top: 55px;
 }
+
 .frame-427318899 {
   width: 900px;
   height: 96px;
@@ -949,16 +1064,19 @@ html {
   top: 96px;
   overflow: hidden;
 }
+
 .v-slider-frame {
   height: 100px;
   overflow: hidden;
   text-align: center;
 }
+
 ul.v-slides {
   list-style-type: none;
   transform: translateY(100px);
   padding: 0;
 }
+
 .v-slide {
   font-size: 80px;
   font-weight: 700;
@@ -966,6 +1084,7 @@ ul.v-slides {
   font-family: "Urbanist-SemiBold", sans-serif;
   color: #fd853a;
 }
+
 .website-designer-ui-ux-designer-graphic-designer-video-editor {
   color: #fd853a;
   text-align: center;
@@ -979,6 +1098,7 @@ ul.v-slides {
   width: 900px;
   height: 384px;
 }
+
 .as-a-passionate-ui-ux-and-graphic-designer-i-transform-digital-experiences-by-creating-intuitive-and-visually-appealing-interfaces-for-web-and-mobile-applications-i-focus-on-user-centered-design-principles-to-ensure-accessibility-and-enjoyment-my-portfolio-showcases-a-balance-of-form-and-function-reflecting-my-commitment-to-enhancing-user-journeys-explore-my-work-to-see-how-i-did-usability-bringing-digital-visions-to-life {
   color: #171717;
   text-align: center;
@@ -990,6 +1110,7 @@ ul.v-slides {
   width: 1014px;
   height: 225px;
 }
+
 .frame-3 {
   display: flex;
   flex-direction: column;
@@ -999,6 +1120,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-42 {
   display: flex;
   flex-direction: row;
@@ -1008,12 +1130,14 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .icon-star {
   flex-shrink: 0;
   width: 32px;
   height: 32px;
   position: relative;
 }
+
 .star {
   width: 83.34%;
   height: 79.17%;
@@ -1024,6 +1148,7 @@ ul.v-slides {
   top: 10.42%;
   overflow: visible;
 }
+
 .star2 {
   width: 83.34%;
   height: 79.17%;
@@ -1034,6 +1159,7 @@ ul.v-slides {
   top: 10.42%;
   overflow: visible;
 }
+
 .star3 {
   width: 83.34%;
   height: 79.17%;
@@ -1044,6 +1170,7 @@ ul.v-slides {
   top: 10.42%;
   overflow: visible;
 }
+
 .star4 {
   width: 83.34%;
   height: 79.17%;
@@ -1054,6 +1181,7 @@ ul.v-slides {
   top: 10.42%;
   overflow: visible;
 }
+
 .star5 {
   width: 83.34%;
   height: 79.17%;
@@ -1064,6 +1192,7 @@ ul.v-slides {
   top: 10.42%;
   overflow: visible;
 }
+
 .frame-32 {
   display: flex;
   flex-direction: column;
@@ -1073,6 +1202,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 ._3-years {
   color: var(--gray-900, #171717);
   text-align: center;
@@ -1083,6 +1213,7 @@ ul.v-slides {
   font-weight: 700;
   position: relative;
 }
+
 .working-experince {
   color: var(--gray-900, #171717);
   text-align: center;
@@ -1093,6 +1224,7 @@ ul.v-slides {
   font-weight: 400;
   position: relative;
 }
+
 .frame-58 {
   background: linear-gradient(to left, #171717, #171717);
   border-radius: 0px 0px 50px 50px;
@@ -1104,10 +1236,12 @@ ul.v-slides {
   /* justify-content: flex-start; */
   /* flex-shrink: 0; */
   /* width: 1452px; */
-  height: 1300px;
+  height: 950px;
   position: relative;
   overflow: hidden;
+
 }
+
 .frame-65 {
   flex-shrink: 0;
   height: 828px;
@@ -1117,6 +1251,7 @@ ul.v-slides {
   top: 50px;
   overflow: hidden;
 }
+
 .frame-427318903 {
   display: flex;
   flex-direction: column;
@@ -1126,15 +1261,18 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-43 {
   display: flex;
   flex-direction: row;
-  align-items: flex-end;
   justify-content: space-between;
+  align-items: center;
   flex-shrink: 0;
   width: 1299px;
+  height: 70px;
   position: relative;
 }
+
 .my-services {
   text-align: left;
   font-family: "Urbanist-Medium", sans-serif;
@@ -1144,6 +1282,7 @@ ul.v-slides {
   font-weight: 500;
   position: relative;
 }
+
 .my-services-span {
   color: var(--gray-25, #fcfcfd);
   font-family: "Urbanist-Medium", sans-serif;
@@ -1152,6 +1291,7 @@ ul.v-slides {
   letter-spacing: -0.015em;
   font-weight: 500;
 }
+
 .my-services-span2 {
   color: var(--orange-400, #fd853a);
   font-family: "Urbanist-Medium", sans-serif;
@@ -1160,6 +1300,7 @@ ul.v-slides {
   letter-spacing: -0.015em;
   font-weight: 500;
 }
+
 .welcome-to-digital-world-where-your-vision-meets-innovation-i-am-creative-designer-dedicated-to-transforming-ideas-into-interactive-realities {
   color: var(--white, #ffffff);
   text-align: left;
@@ -1170,6 +1311,7 @@ ul.v-slides {
   position: relative;
   width: 688px;
 }
+
 .frame-113 {
   display: flex;
   flex-direction: column;
@@ -1179,6 +1321,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-44 {
   display: flex;
   flex-direction: row;
@@ -1188,6 +1331,7 @@ ul.v-slides {
   width: 1299px;
   position: relative;
 }
+
 .frame-59 {
   display: flex;
   flex-direction: row;
@@ -1197,12 +1341,14 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-60 {
   flex-shrink: 0;
   width: 416px;
   height: 508px;
   position: relative;
 }
+
 .rectangle-5 {
   border-radius: 0px;
   width: 416px;
@@ -1212,6 +1358,7 @@ ul.v-slides {
   top: 0px;
   overflow: visible;
 }
+
 .rectangle-6 {
   border-radius: 0px;
   width: 416px;
@@ -1221,6 +1368,7 @@ ul.v-slides {
   top: 0px;
   overflow: visible;
 }
+
 .frame-61 {
   display: flex;
   flex-direction: column;
@@ -1230,6 +1378,7 @@ ul.v-slides {
   left: 0px;
   top: 158px;
 }
+
 .rectangle-9 {
   background: #757575;
   border-radius: 35px;
@@ -1239,6 +1388,7 @@ ul.v-slides {
   height: 329px;
   position: relative;
 }
+
 .rectangle-8 {
   margin: -310px 0 0 0;
   background: #9e9d9d;
@@ -1248,6 +1398,7 @@ ul.v-slides {
   height: 329px;
   position: relative;
 }
+
 .rectangle-7 {
   margin: -310px 0 0 0;
   border-radius: 35px;
@@ -1257,6 +1408,7 @@ ul.v-slides {
   position: relative;
   object-fit: cover;
 }
+
 .frame-62 {
   display: flex;
   flex-direction: column;
@@ -1268,6 +1420,7 @@ ul.v-slides {
   left: 0px;
   top: 44px;
 }
+
 .frame-63 {
   padding: 0px 37px 0px 37px;
   display: flex;
@@ -1279,6 +1432,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .ui-ux-design {
   color: #ffffff;
   text-align: left;
@@ -1289,6 +1443,7 @@ ul.v-slides {
   position: relative;
   flex: 1;
 }
+
 .line-3 {
   border-style: solid;
   border-color: rgba(249, 250, 251, 0.3);
@@ -1298,6 +1453,7 @@ ul.v-slides {
   height: 0px;
   position: relative;
 }
+
 .frame-57 {
   background: var(--gray-800, #1d2939);
   border-radius: 57px;
@@ -1319,6 +1475,7 @@ ul.v-slides {
   transform-origin: 0 0;
   transform: rotate(-90deg) scale(1, 1);
 }
+
 .icon-outlined-directions-straight-arrows-up-right {
   align-self: stretch;
   flex: 1;
@@ -1327,6 +1484,7 @@ ul.v-slides {
   transform: translate(0px, 0px);
   overflow: visible;
 }
+
 .frame-602 {
   display: flex;
   flex-direction: row;
@@ -1336,6 +1494,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .rectangle-52 {
   border-radius: 0px;
   width: 416px;
@@ -1345,6 +1504,7 @@ ul.v-slides {
   top: 0px;
   overflow: visible;
 }
+
 .rectangle-62 {
   border-radius: 0px;
   width: 416px;
@@ -1354,6 +1514,7 @@ ul.v-slides {
   top: 0px;
   overflow: visible;
 }
+
 .icon-outlined-directions-straight-arrows-up-right2 {
   align-self: stretch;
   flex: 1;
@@ -1362,6 +1523,7 @@ ul.v-slides {
   transform: translate(0px, 0px);
   overflow: visible;
 }
+
 .frame-612 {
   display: flex;
   flex-direction: row;
@@ -1371,6 +1533,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .rectangle-53 {
   border-radius: 0px;
   width: 416px;
@@ -1380,6 +1543,7 @@ ul.v-slides {
   top: 0px;
   overflow: visible;
 }
+
 .rectangle-63 {
   border-radius: 0px;
   width: 416px;
@@ -1389,6 +1553,7 @@ ul.v-slides {
   top: 0px;
   overflow: visible;
 }
+
 .icon-outlined-directions-straight-arrows-up-right3 {
   align-self: stretch;
   flex: 1;
@@ -1397,11 +1562,13 @@ ul.v-slides {
   transform: translate(0px, 0px);
   overflow: visible;
 }
+
 .component-12:hover img {
   /* background-color: #000000; */
   transform: rotate(45deg);
   transition: transform 0.4s ease-in-out;
 }
+
 .component-12 {
   background: var(--orange-400, #fd853a);
   border-radius: 60px;
@@ -1414,8 +1581,10 @@ ul.v-slides {
   flex-shrink: 0;
   width: 202px;
   position: relative;
+  bottom: 50px;
   overflow: hidden;
 }
+
 .hire-me {
   color: var(--white, #ffffff);
   text-align: left;
@@ -1426,6 +1595,7 @@ ul.v-slides {
   font-weight: 500;
   position: relative;
 }
+
 .icon-outlined-directions-straight-arrows-up-right4 {
   flex-shrink: 0;
   width: 42px;
@@ -1433,6 +1603,7 @@ ul.v-slides {
   position: relative;
   overflow: visible;
 }
+
 .frame-69 {
   padding: 0px 71px 0px 71px;
   align-self: stretch;
@@ -1441,6 +1612,7 @@ ul.v-slides {
   position: relative;
   overflow: hidden;
 }
+
 .frame-73 {
   padding: 85px 0px 85px 0px;
   display: flex;
@@ -1453,6 +1625,7 @@ ul.v-slides {
   left: 71px;
   top: 0px;
 }
+
 .my-work-experince {
   text-align: left;
   font-family: "Urbanist-Medium", sans-serif;
@@ -1462,6 +1635,7 @@ ul.v-slides {
   font-weight: 500;
   position: relative;
 }
+
 .my-work-experince-span {
   color: var(--gray-700, #344054);
   font-family: "Urbanist-Medium", sans-serif;
@@ -1470,6 +1644,7 @@ ul.v-slides {
   letter-spacing: -0.015em;
   font-weight: 500;
 }
+
 .my-work-experince-span2 {
   color: var(--orange-400, #fd853a);
   font-family: "Urbanist-Medium", sans-serif;
@@ -1478,6 +1653,7 @@ ul.v-slides {
   letter-spacing: -0.015em;
   font-weight: 500;
 }
+
 .frame-114 {
   width: 1298px;
   height: 513px;
@@ -1485,6 +1661,7 @@ ul.v-slides {
   left: 71px;
   top: 234px;
 }
+
 .frame-115 {
   display: flex;
   flex-direction: column;
@@ -1496,6 +1673,7 @@ ul.v-slides {
   left: -1px;
   top: 0px;
 }
+
 .frame-124 {
   display: flex;
   flex-direction: column;
@@ -1505,6 +1683,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .cognisant-websoft-solutions-chennai {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -1515,6 +1694,7 @@ ul.v-slides {
   font-weight: 600;
   position: relative;
 }
+
 .oct-2023-april-2024 {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -1525,6 +1705,7 @@ ul.v-slides {
   font-weight: 400;
   position: relative;
 }
+
 .frame-132 {
   display: flex;
   flex-direction: column;
@@ -1534,6 +1715,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .freelance {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -1544,6 +1726,7 @@ ul.v-slides {
   font-weight: 600;
   position: relative;
 }
+
 .aug-2022-present {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -1554,6 +1737,7 @@ ul.v-slides {
   font-weight: 400;
   position: relative;
 }
+
 .frame-14 {
   display: flex;
   flex-direction: column;
@@ -1563,6 +1747,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .focus-edumatics-coimbatore {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -1573,6 +1758,7 @@ ul.v-slides {
   font-weight: 600;
   position: relative;
 }
+
 .sep-2021-july-2023 {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -1583,6 +1769,7 @@ ul.v-slides {
   font-weight: 400;
   position: relative;
 }
+
 .frame-116 {
   display: flex;
   flex-direction: row;
@@ -1594,6 +1781,7 @@ ul.v-slides {
   left: 726px;
   top: 0px;
 }
+
 .line-4 {
   border-style: dashed;
   border-color: var(--gray-700, #344054);
@@ -1607,6 +1795,7 @@ ul.v-slides {
   transform-origin: 0 0;
   transform: rotate(90deg) scale(1, 1);
 }
+
 .frame-117 {
   display: flex;
   flex-direction: column;
@@ -1616,6 +1805,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-70 {
   background: #ffffff;
   border-radius: 48px;
@@ -1633,6 +1823,7 @@ ul.v-slides {
   position: relative;
   overflow: hidden;
 }
+
 .ellipse-3 {
   background: var(--orange-400, #fd853a);
   border-radius: 50%;
@@ -1641,6 +1832,7 @@ ul.v-slides {
   height: 36px;
   position: relative;
 }
+
 .frame-71 {
   background: #ffffff;
   border-radius: 48px;
@@ -1658,6 +1850,7 @@ ul.v-slides {
   position: relative;
   overflow: hidden;
 }
+
 .ellipse-32 {
   background: var(--gray-800, #1d2939);
   border-radius: 50%;
@@ -1666,6 +1859,7 @@ ul.v-slides {
   height: 36px;
   position: relative;
 }
+
 .frame-722 {
   background: #ffffff;
   border-radius: 48px;
@@ -1683,6 +1877,7 @@ ul.v-slides {
   position: relative;
   overflow: hidden;
 }
+
 .frame-125 {
   display: flex;
   flex-direction: column;
@@ -1694,6 +1889,7 @@ ul.v-slides {
   left: 847px;
   top: 0px;
 }
+
 .frame-118 {
   display: flex;
   flex-direction: column;
@@ -1703,6 +1899,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .ui-ux-designer {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -1713,6 +1910,7 @@ ul.v-slides {
   font-weight: 600;
   position: relative;
 }
+
 .during-my-time-i-created-user-centric-design-to-improve-the-overall-interface-and-user-experience-of-different-digital-products {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -1723,6 +1921,7 @@ ul.v-slides {
   position: relative;
   width: 444px;
 }
+
 .graphic-ui-ux-designer {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -1733,6 +1932,7 @@ ul.v-slides {
   font-weight: 600;
   position: relative;
 }
+
 .i-have-extensive-experience-working-as-a-freelance-graphic-ui-ux-designer-creating-visually-appealing-and-user-friendly-design-for-various-clients {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -1743,6 +1943,7 @@ ul.v-slides {
   position: relative;
   width: 444px;
 }
+
 .senior-math-tutor {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -1753,6 +1954,7 @@ ul.v-slides {
   font-weight: 600;
   position: relative;
 }
+
 .i-ve-had-experience-working-with-us-students-as-an-online-math-tutor-assisting-them-in-developing-an-enhanced-understanding-and-performance-in-a-variety-of-mathematical-concepts {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -1765,6 +1967,7 @@ ul.v-slides {
   top: 440px;
   width: 444px;
 }
+
 .frame-702 {
   background: var(--gray-100, #f2f4f7);
   border-radius: 50px;
@@ -1780,6 +1983,7 @@ ul.v-slides {
   position: relative;
   overflow: hidden;
 }
+
 .frame-45 {
   display: flex;
   flex-direction: row;
@@ -1790,31 +1994,35 @@ ul.v-slides {
   height: 600px;
   position: relative;
 }
+
 .group-427318984 {
   flex-shrink: 0;
   width: 604.96px;
   height: 594.93px;
   position: static;
 }
+
 .rectangle-11 {
   background: #444444;
   border-radius: 121px;
-  width: 434.3px;
-  height: 497.96px;
+  width: 404px;
+  height: 450px;
   position: absolute;
   left: 63.69px;
   top: 99.5px;
 }
+
 .final-photoroom-photoroom-1 {
-  width: 604.96px;
-  height: 592.36px;
+  width: 704.96px;
+  height: 700px;
   position: absolute;
-  left: 550.96px;
-  top: 2.53px;
+  left: 580.96px;
+  bottom: 55px;
   transform-origin: 0 0;
   transform: rotate(0deg) scale(-1, 1);
   object-fit: cover;
 }
+
 .frame-74 {
   display: flex;
   flex-direction: column;
@@ -1825,6 +2033,7 @@ ul.v-slides {
   width: 654px;
   position: relative;
 }
+
 .frame-119 {
   display: flex;
   flex-direction: column;
@@ -1835,6 +2044,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .why-hire-me {
   text-align: left;
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -1845,6 +2055,7 @@ ul.v-slides {
   position: relative;
   align-self: stretch;
 }
+
 .why-hire-me-span {
   color: var(--gray-700, #344054);
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -1853,6 +2064,7 @@ ul.v-slides {
   letter-spacing: -0.015em;
   font-weight: 600;
 }
+
 .why-hire-me-span2 {
   color: var(--orange-400, #fd853a);
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -1861,6 +2073,7 @@ ul.v-slides {
   letter-spacing: -0.015em;
   font-weight: 600;
 }
+
 .why-hire-me-span3 {
   color: var(--gray-700, #344054);
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -1869,6 +2082,7 @@ ul.v-slides {
   letter-spacing: -0.015em;
   font-weight: 600;
 }
+
 .i-would-be-an-excellent-fot-with-your-company-because-i-could-bring-enthusiasm-and-dedication-to-your-team-of-designers-after-researching-your-brand-i-share-the-same-core-values-and-respect-your-business-model-iam-always-thinking-of-innovation-designs-making-me-an-excellent-asset-to-your-creative-team {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -1879,6 +2093,7 @@ ul.v-slides {
   position: relative;
   width: 584px;
 }
+
 .frame-126 {
   display: flex;
   flex-direction: column;
@@ -1889,6 +2104,7 @@ ul.v-slides {
   width: 167px;
   position: relative;
 }
+
 .frame-1110 {
   display: flex;
   flex-direction: column;
@@ -1899,6 +2115,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 ._55 {
   color: var(--gray-800, #1d2939);
   text-align: left;
@@ -1908,6 +2125,7 @@ ul.v-slides {
   font-weight: 500;
   position: relative;
 }
+
 .project-completed {
   color: var(--gray-500, #667085);
   text-align: left;
@@ -1917,6 +2135,7 @@ ul.v-slides {
   font-weight: 400;
   position: relative;
 }
+
 .frame-1111 {
   display: flex;
   flex-direction: column;
@@ -1927,6 +2146,7 @@ ul.v-slides {
   width: 167px;
   position: relative;
 }
+
 ._45 {
   color: var(--gray-800, #1d2939);
   text-align: left;
@@ -1936,6 +2156,7 @@ ul.v-slides {
   font-weight: 500;
   position: relative;
 }
+
 .happy-customers {
   color: var(--gray-500, #667085);
   text-align: left;
@@ -1945,6 +2166,7 @@ ul.v-slides {
   font-weight: 400;
   position: relative;
 }
+
 .frame-6 {
   border-radius: 32px;
   border-style: solid;
@@ -1959,6 +2181,7 @@ ul.v-slides {
   flex-shrink: 0;
   position: relative;
 }
+
 .shop-tropical-plants {
   text-align: left;
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -1967,22 +2190,29 @@ ul.v-slides {
   font-weight: 600;
   position: relative;
 }
+
 a,
 a:visited,
 a:active {
   color: inherit;
 }
-.nav-links, .nav-links:active, .nav-links:visited {
+
+.nav-links,
+.nav-links:active,
+.nav-links:visited {
   color: #f2f2f2;
 }
+
 .dowload-cv {
   color: #151515;
 }
+
 .dowload-cv:hover {
   background-color: #151515;
   color: #f2f2f2;
   cursor: pointer;
 }
+
 .frame-76 {
   padding: 94px 68px 94px 68px;
   display: flex;
@@ -1996,6 +2226,7 @@ a:active {
   position: relative;
   overflow: hidden;
 }
+
 .frame-1112 {
   display: flex;
   flex-direction: row;
@@ -2005,6 +2236,7 @@ a:active {
   width: 1298px;
   position: relative;
 }
+
 .lets-have-a-look-at-my-portfolio {
   text-align: left;
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -2018,6 +2250,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .lets-have-a-look-at-my-portfolio-span {
   color: #344054;
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -2025,6 +2258,7 @@ a:active {
   letter-spacing: -0.015em;
   font-weight: 600;
 }
+
 .lets-have-a-look-at-my-portfolio-span2 {
   color: var(--orange-400, #fd853a);
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -2032,6 +2266,7 @@ a:active {
   letter-spacing: -0.015em;
   font-weight: 600;
 }
+
 .home4 {
   color: #ffffff;
   text-align: left;
@@ -2041,15 +2276,19 @@ a:active {
   font-weight: 700;
   position: relative;
 }
-.home4:visited, home4:active{
+
+.home4:visited,
+home4:active {
   color: #f2f2f2
 }
+
 .frame-127 {
   flex-shrink: 0;
   width: 1290px;
   height: 780px;
   position: relative;
 }
+
 .frame-427318985 {
   display: flex;
   flex-direction: column;
@@ -2060,6 +2299,7 @@ a:active {
   left: 0px;
   top: 14px;
 }
+
 .frame-427318895 {
   display: flex;
   flex-direction: row;
@@ -2069,12 +2309,14 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .group-427318977 {
   flex-shrink: 0;
   width: 426px;
   height: 432px;
   position: static;
 }
+
 .frame-572 {
   background: var(--gray-800, #1d2939);
   border-radius: 57px;
@@ -2095,14 +2337,17 @@ a:active {
   transform-origin: 0 0;
   transform: rotate(-90deg) scale(1, 1);
 }
+
 .icon-outlined-directions-straight-arrows-up-right5 {
   align-self: stretch;
   flex: 1;
   height: auto;
   position: relative;
   transform: translate(0px, 0px);
+  rotate: 90deg;
   overflow: visible;
 }
+
 .frame-603 {
   width: 416px;
   height: 432px;
@@ -2111,6 +2356,7 @@ a:active {
   top: 0px;
   overflow: visible;
 }
+
 .datingz-mobile-app-ui-portfolio {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -2120,6 +2366,7 @@ a:active {
   position: relative;
   width: 405px;
 }
+
 .datingz-a-modern-and-user-friendly-smartphone-app-design-that-will-revolutionize-your-dating-life {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -2130,6 +2377,7 @@ a:active {
   position: relative;
   width: 416px;
 }
+
 .frame-427318896 {
   border-radius: 32px;
   border-style: solid;
@@ -2144,6 +2392,7 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .shop-tropical-plants2 {
   text-align: left;
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -2152,6 +2401,7 @@ a:active {
   font-weight: 600;
   position: relative;
 }
+
 .view-design-container {
   color: #344054;
   border-radius: 32px;
@@ -2167,10 +2417,12 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .view-design-container:hover {
   color: #f2f2f2;
   background-color: #344054;
 }
+
 .frame-4273189852 {
   display: flex;
   flex-direction: column;
@@ -2181,6 +2433,7 @@ a:active {
   left: 444px;
   top: 14px;
 }
+
 .frame-592 {
   display: flex;
   flex-direction: row;
@@ -2191,6 +2444,7 @@ a:active {
   position: relative;
   box-shadow: 0px 4px 55px 0px rgba(0, 0, 0, 0.05);
 }
+
 .frame-604 {
   flex-shrink: 0;
   width: 416px;
@@ -2198,6 +2452,7 @@ a:active {
   position: relative;
   overflow: visible;
 }
+
 .frame-573 {
   background: var(--gray-800, #1d2939);
   border-radius: 57px;
@@ -2219,14 +2474,17 @@ a:active {
   transform-origin: 0 0;
   transform: rotate(-90deg) scale(1, 1);
 }
+
 .icon-outlined-directions-straight-arrows-up-right6 {
   align-self: stretch;
   flex: 1;
   height: auto;
   position: relative;
   transform: translate(0px, 0px);
+  rotate: 90deg;
   overflow: visible;
 }
+
 .stronger-branding-design {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -2236,6 +2494,7 @@ a:active {
   position: relative;
   width: 405px;
 }
+
 .stronger-is-a-dynamic-branding-logo-designed-to-inspire-and-energize-gym-and-fitness-enthusiasts {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -2246,6 +2505,7 @@ a:active {
   position: relative;
   width: 405px;
 }
+
 .frame-427318897 {
   border-radius: 32px;
   border-style: solid;
@@ -2260,6 +2520,7 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-4273189853 {
   display: flex;
   flex-direction: column;
@@ -2270,6 +2531,7 @@ a:active {
   left: 878px;
   top: 14px;
 }
+
 .frame-605 {
   flex-shrink: 0;
   width: 416px;
@@ -2277,14 +2539,17 @@ a:active {
   position: relative;
   overflow: visible;
 }
+
 .icon-outlined-directions-straight-arrows-up-right7 {
   align-self: stretch;
   flex: 1;
   height: auto;
   position: relative;
   transform: translate(0px, 0px);
+  rotate: 90deg;
   overflow: visible;
 }
+
 .inspired-interiors-website-design {
   color: var(--gray-700, #344054);
   text-align: left;
@@ -2292,8 +2557,9 @@ a:active {
   font-size: 28px;
   font-weight: 400;
   position: relative;
-  width: 416px;
+  width: 429px;
 }
+
 .inspired-interiors-is-a-website-crafted-to-showcase-stunning-interior-design-projects {
   color: var(--gray-400, #98a2b3);
   text-align: left;
@@ -2302,8 +2568,9 @@ a:active {
   letter-spacing: -0.015em;
   font-weight: 400;
   position: relative;
-  width: 416px;
+  width: 429px;
 }
+
 .frame-64 {
   border-radius: 32px;
   border-style: solid;
@@ -2318,8 +2585,9 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-77 {
-  background-color: linear-gradient(to left, #171717, #171717);
+  background: linear-gradient(to left, #171717, #171717);
   border-radius: 50px;
   padding: 71px;
   display: flex;
@@ -2329,10 +2597,12 @@ a:active {
   justify-content: flex-start;
   flex-shrink: 0;
   width: 1458px;
-  height: 863px;
+  height: 760px;
   position: relative;
   overflow: hidden;
+  top: 40px;
 }
+
 .frame-46 {
   display: flex;
   flex-direction: column;
@@ -2343,6 +2613,7 @@ a:active {
   width: 1299px;
   position: relative;
 }
+
 .testimonials-that-speak-to-my-results {
   text-align: center;
   font-family: "Urbanist-Medium", sans-serif;
@@ -2351,6 +2622,7 @@ a:active {
   font-weight: 500;
   position: relative;
 }
+
 .testimonials-that-speak-to-my-results-span {
   color: var(--gray-25, #fcfcfd);
   font-family: "Urbanist-Medium", sans-serif;
@@ -2358,6 +2630,7 @@ a:active {
   letter-spacing: -0.015em;
   font-weight: 500;
 }
+
 .testimonials-that-speak-to-my-results-span2 {
   color: var(--orange-400, #fd853a);
   font-family: "Urbanist-Medium", sans-serif;
@@ -2365,6 +2638,7 @@ a:active {
   letter-spacing: -0.015em;
   font-weight: 500;
 }
+
 .my-clients-consistently-praise-my-work-highlighting-professionalism-and-innovative-design-thank-you-to-all-of-my-clients-for-sending-us-reviews-on-our-service-here-we-filled-with-selection-for-you-to-read {
   color: var(--gray-50, #f9fafb);
   text-align: center;
@@ -2379,12 +2653,14 @@ a:active {
   align-items: center;
   justify-content: center;
 }
+
 .frame-1113 {
   flex-shrink: 0;
   width: 1299px;
   height: 264.84px;
   position: relative;
 }
+
 .component-7 {
   background: rgba(255, 255, 255, 0.14);
   border-radius: 24px;
@@ -2400,6 +2676,7 @@ a:active {
   /* overflow: hidden; */
   backdrop-filter: blur(7px);
 }
+
 .carousel {
   display: flex;
   gap: 40px;
@@ -2422,6 +2699,7 @@ a:active {
   justify-content: flex-start;
   backdrop-filter: blur(7px);
 }
+
 .frame-240 {
   display: flex;
   flex-direction: row;
@@ -2431,12 +2709,14 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-323 {
   flex-shrink: 0;
   width: 54.84px;
   height: 54.84px;
   position: relative;
 }
+
 .ellipse-21 {
   border-radius: 50%;
   width: 54.84px;
@@ -2446,6 +2726,7 @@ a:active {
   top: 0px;
   object-fit: cover;
 }
+
 .frame-322 {
   display: flex;
   flex-direction: column;
@@ -2456,6 +2737,7 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .fawzi-sayed {
   color: var(--gray-25, #fcfcfd);
   text-align: center;
@@ -2464,6 +2746,7 @@ a:active {
   font-weight: 700;
   position: relative;
 }
+
 .ui-ux-designer2 {
   color: var(--gray-25, #fcfcfd);
   text-align: center;
@@ -2472,6 +2755,7 @@ a:active {
   font-weight: 400;
   position: relative;
 }
+
 .frame-1114 {
   display: flex;
   flex-direction: row;
@@ -2481,6 +2765,7 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-1115 {
   display: flex;
   flex-direction: row;
@@ -2490,6 +2775,7 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .star6 {
   width: 83.34%;
   height: 79.17%;
@@ -2500,6 +2786,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star7 {
   width: 83.34%;
   height: 79.17%;
@@ -2510,6 +2797,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star8 {
   width: 83.34%;
   height: 79.17%;
@@ -2520,6 +2808,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star9 {
   width: 83.34%;
   height: 79.17%;
@@ -2530,6 +2819,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star10 {
   width: 83.34%;
   height: 79.17%;
@@ -2540,6 +2830,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 ._5-0 {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -2549,6 +2840,7 @@ a:active {
   font-weight: 500;
   position: relative;
 }
+
 .consectetur-adipiscing-elit-sed-congue-interdum-ligula-a-dignissim-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-lobortis-orci-elementum-egestas-lobortis-sed-lobortis-orci-elementum-egestas-lobortis-sed-lobortis-orci-elementum-egestas-lobortis {
   color: var(--gray-50, #f9fafb);
   text-align: left;
@@ -2563,6 +2855,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .vuesax-bold-quote-down {
   flex-shrink: 0;
   width: 128px;
@@ -2571,6 +2864,7 @@ a:active {
   left: 642px;
   top: 12px;
 }
+
 .vuesax-bold-quote-down2 {
   height: auto;
   position: absolute;
@@ -2578,6 +2872,7 @@ a:active {
   top: 0px;
   overflow: visible;
 }
+
 .component-8 {
   background: rgba(255, 255, 255, 0.14);
   border-radius: 24px;
@@ -2593,6 +2888,7 @@ a:active {
   overflow: hidden;
   backdrop-filter: blur(7px);
 }
+
 .star11 {
   width: 83.34%;
   height: 79.17%;
@@ -2603,6 +2899,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star12 {
   width: 83.34%;
   height: 79.17%;
@@ -2613,6 +2910,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star13 {
   width: 83.34%;
   height: 79.17%;
@@ -2623,6 +2921,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star14 {
   width: 83.34%;
   height: 79.17%;
@@ -2633,6 +2932,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star15 {
   width: 83.34%;
   height: 79.17%;
@@ -2643,6 +2943,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .vuesax-bold-quote-down3 {
   height: auto;
   position: absolute;
@@ -2650,6 +2951,7 @@ a:active {
   top: 0px;
   overflow: visible;
 }
+
 .component-10 {
   background: rgba(255, 255, 255, 0.14);
   border-radius: 24px;
@@ -2665,6 +2967,7 @@ a:active {
   overflow: hidden;
   backdrop-filter: blur(7px);
 }
+
 .star16 {
   width: 83.34%;
   height: 79.17%;
@@ -2675,6 +2978,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star17 {
   width: 83.34%;
   height: 79.17%;
@@ -2685,6 +2989,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star18 {
   width: 83.34%;
   height: 79.17%;
@@ -2695,6 +3000,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star19 {
   width: 83.34%;
   height: 79.17%;
@@ -2705,6 +3011,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .star20 {
   width: 83.34%;
   height: 79.17%;
@@ -2715,6 +3022,7 @@ a:active {
   top: 10.42%;
   overflow: visible;
 }
+
 .vuesax-bold-quote-down4 {
   height: auto;
   position: absolute;
@@ -2722,18 +3030,21 @@ a:active {
   top: 0px;
   overflow: visible;
 }
+
 .frame-324 {
-  padding: 98px 0px 98px 0px;
+  padding: 170px 0px 90px 0px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 40px;
   align-items: center;
   justify-content: center;
   align-self: stretch;
   flex-shrink: 0;
   position: relative;
   overflow: hidden;
+  top: inherit;
 }
+
 .have-an-awsome-project-idea-let-s-discuss {
   text-align: center;
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -2747,6 +3058,7 @@ a:active {
   align-items: center;
   justify-content: center;
 }
+
 .have-an-awsome-project-idea-let-s-discuss-span {
   color: var(--gray-700, #344054);
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -2754,6 +3066,7 @@ a:active {
   letter-spacing: -0.015em;
   font-weight: 600;
 }
+
 .have-an-awsome-project-idea-let-s-discuss-span2 {
   color: var(--orange-400, #fd853a);
   font-family: "Urbanist-SemiBold", sans-serif;
@@ -2761,6 +3074,7 @@ a:active {
   letter-spacing: -0.015em;
   font-weight: 600;
 }
+
 .frame-128 {
   display: flex;
   flex-direction: column;
@@ -2770,6 +3084,7 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .frame-15 {
   border-radius: 50px;
   border-style: solid;
@@ -2786,12 +3101,14 @@ a:active {
   position: relative;
   backdrop-filter: blur(7.5px);
 }
+
 .group-11 {
   align-self: stretch;
   flex-shrink: 0;
   width: 253px;
   position: static;
 }
+
 .frame-325 {
   background: var(--orange-100, #ffead5);
   border-radius: 50px;
@@ -2806,12 +3123,14 @@ a:active {
   left: 14px;
   top: 14px;
 }
+
 .vuesax-bold-sms {
   flex-shrink: 0;
   width: 32px;
   height: 32px;
   position: relative;
 }
+
 .vuesax-bold-sms2 {
   height: auto;
   position: absolute;
@@ -2819,6 +3138,14 @@ a:active {
   top: 0px;
   overflow: visible;
 }
+.enter-email-address::placeholder{
+  color: #000000;
+}
+#submit{
+  position: absolute;
+  left: 700px;
+}
+
 .enter-email-address {
   color: #000000;
   text-align: left;
@@ -2829,9 +3156,11 @@ a:active {
   position: absolute;
   left: 95px;
   top: 32.12px;
-  width: 172px;
-  height: 21.75px;
+  height: 25px;
+  width:70%;
+  outline: none;
 }
+
 .home5 {
   color: #ffffff;
   text-align: left;
@@ -2841,6 +3170,7 @@ a:active {
   font-weight: 500;
   position: relative;
 }
+
 .frame-129 {
   display: flex;
   flex-direction: row;
@@ -2850,6 +3180,7 @@ a:active {
   width: 350px;
   position: relative;
 }
+
 .frame-582 {
   display: flex;
   flex-direction: row;
@@ -2859,12 +3190,14 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .vuesax-bold-star {
   flex-shrink: 0;
   width: 24px;
   height: 24px;
   position: relative;
 }
+
 .vuesax-bold-star2 {
   height: auto;
   position: absolute;
@@ -2872,6 +3205,7 @@ a:active {
   top: 0px;
   overflow: visible;
 }
+
 ._4-9-5-average-ratings {
   color: #000000;
   text-align: left;
@@ -2881,6 +3215,7 @@ a:active {
   font-weight: 400;
   position: relative;
 }
+
 .frame-574 {
   margin: 0 0 0 -68px;
   display: flex;
@@ -2893,6 +3228,7 @@ a:active {
   height: 24px;
   position: relative;
 }
+
 .frame-1210 {
   margin: 0 0 0 -68px;
   display: flex;
@@ -2903,12 +3239,14 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .vuesax-bold-shield-tick {
   flex-shrink: 0;
   width: 24px;
   height: 24px;
   position: relative;
 }
+
 .vuesax-bold-shield-tick2 {
   width: 100%;
   height: 100%;
@@ -2919,6 +3257,7 @@ a:active {
   top: 0%;
   overflow: visible;
 }
+
 .certified-designer {
   color: #000000;
   text-align: left;
@@ -2928,6 +3267,7 @@ a:active {
   font-weight: 400;
   position: relative;
 }
+
 .frame-326 {
   background: #272727;
   border-radius: 24px 24px 0px 0px;
@@ -2937,7 +3277,9 @@ a:active {
   height: 536px;
   position: relative;
   overflow: hidden;
+  top: 39px;
 }
+
 .frame-1116 {
   display: flex;
   flex-direction: row;
@@ -2948,6 +3290,7 @@ a:active {
   left: 50px;
   top: 25px;
 }
+
 .lets-connect-there {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -2962,6 +3305,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .icon-outlined-directions-straight-arrows-up-right8 {
   flex-shrink: 0;
   width: 42px;
@@ -2969,6 +3313,7 @@ a:active {
   position: relative;
   overflow: visible;
 }
+
 .line-5 {
   width: 1298px;
   height: 0px;
@@ -2977,6 +3322,7 @@ a:active {
   top: 215.75px;
   overflow: visible;
 }
+
 .frame-1211 {
   width: 1298px;
   height: 239px;
@@ -2984,6 +3330,7 @@ a:active {
   left: 50px;
   top: 256.5px;
 }
+
 .frame-1212 {
   width: 529px;
   height: 239px;
@@ -2991,6 +3338,7 @@ a:active {
   left: 0px;
   top: 0px;
 }
+
 .creativity-converges-with-innovation-iam-harini-balasundram-a-ui-ux-designer-weaving-digital-magic-explore-my-portfolio-and-witness-the-seamless-fusion-of-aesthetics-and-functionality-shaping-extraordinary-user-experiences {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -3007,6 +3355,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .group-427318978 {
   height: auto;
   position: absolute;
@@ -3014,6 +3363,7 @@ a:active {
   top: 136.5px;
   overflow: visible;
 }
+
 .group-427318979 {
   height: auto;
   position: absolute;
@@ -3021,10 +3371,12 @@ a:active {
   top: 136.5px;
   overflow: visible;
 }
+
 .group-427318980 {
   position: absolute;
   inset: 0;
 }
+
 .graphic-elements {
   width: 25px;
   height: 25px;
@@ -3033,6 +3385,7 @@ a:active {
   top: 136.5px;
   overflow: hidden;
 }
+
 .vector {
   width: 100%;
   height: 100%;
@@ -3043,6 +3396,7 @@ a:active {
   top: 0%;
   overflow: visible;
 }
+
 .wa-logo {
   width: 63.69%;
   height: 64.01%;
@@ -3053,6 +3407,7 @@ a:active {
   top: 17.24%;
   overflow: visible;
 }
+
 .frame-328 {
   display: flex;
   flex-direction: column;
@@ -3063,6 +3418,7 @@ a:active {
   left: 568.33px;
   top: 0px;
 }
+
 .navigation {
   color: var(--orange-400, #fd853a);
   text-align: left;
@@ -3075,6 +3431,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .frame-1213 {
   display: flex;
   flex-direction: column;
@@ -3084,6 +3441,7 @@ a:active {
   flex-shrink: 0;
   position: relative;
 }
+
 .home6 {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -3096,6 +3454,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .about-us {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -3108,6 +3467,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .service {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -3120,6 +3480,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .experience {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -3132,6 +3493,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .project {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -3144,6 +3506,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .frame-329 {
   display: flex;
   flex-direction: column;
@@ -3154,6 +3517,7 @@ a:active {
   left: 702.67px;
   top: 0px;
 }
+
 .contact {
   color: var(--orange-400, #fd853a);
   text-align: left;
@@ -3166,6 +3530,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 ._91-9789688052 {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -3178,6 +3543,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .harinibalasundram-2001-gmail-com {
   color: var(--gray-25, #fcfcfd);
   text-align: left;
@@ -3190,6 +3556,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .frame-330 {
   display: flex;
   flex-direction: column;
@@ -3200,6 +3567,7 @@ a:active {
   left: 994px;
   top: 0px;
 }
+
 .get-the-latest-information {
   color: var(--orange-400, #fd853a);
   text-align: left;
@@ -3212,6 +3580,7 @@ a:active {
   align-items: center;
   justify-content: flex-start;
 }
+
 .frame-1214 {
   display: flex;
   flex-direction: row;
@@ -3222,6 +3591,7 @@ a:active {
   width: 304px;
   position: relative;
 }
+
 .frame-331 {
   background: #ffffff;
   border-radius: 14px 0px 0px 14px;
@@ -3237,7 +3607,8 @@ a:active {
   position: relative;
   overflow: hidden;
 }
-.email-address {
+
+/* .email-address {
   color: #000000;
   text-align: left;
   font-family: "Urbanist-Regular", sans-serif;
@@ -3248,7 +3619,20 @@ a:active {
   display: flex;
   align-items: center;
   justify-content: flex-start;
+
+} */
+#email::placeholder{
+  color: #000000; 
+  font-family: "Urbanist-Regular", sans-serif;
+  letter-spacing: -0.015em;
 }
+#email{
+  width: 100%;
+  height: inherit;
+  outline: none;
+}
+
+
 .frame-332 {
   background: var(--orange-400, #fd853a);
   border-radius: 0px 14px 14px 0px;
@@ -3264,6 +3648,7 @@ a:active {
   position: relative;
   overflow: hidden;
 }
+
 .ui-icon-send-filled {
   flex-shrink: 0;
   width: 24px;
@@ -3271,6 +3656,7 @@ a:active {
   position: relative;
   overflow: visible;
 }
+
 .line-6 {
   width: 1298px;
   height: 0px;
